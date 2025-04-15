@@ -1,0 +1,6 @@
+test-reports/
+logs/
+screenshots/
+__pycache__/
+*.pyc
+.idea/
