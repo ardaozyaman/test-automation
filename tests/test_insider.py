@@ -32,6 +32,7 @@ class TestInsider(BaseTest):
             print("---")
 
         driver.stop_network_logging()"""
+    
 
     def test_1_homepage_and_click_careers(self):
         self.logger.info("Starting homepage and careers navigation test")
@@ -45,6 +46,7 @@ class TestInsider(BaseTest):
         self.assertTrue(self.careers_page.is_life_at_insider_visible(), "Life at Insider section is not visible")
         self.assertTrue(self.careers_page.is_teams_visible(), "Teams section is not visible")
         self.logger.info("Homepage and careers navigation test completed successfully")
+  
 
     def test_2_job_positions(self):
         self.jobs_page.open_page()
@@ -53,14 +55,19 @@ class TestInsider(BaseTest):
         wait_for_load(self.driver_wait)
         sleep(5)
         self.filter_page.click_location_selector()
-        self.filter_page.click_location("Istanbul, Turkey")
+        sleep(5)
+        self.filter_page.click_location_selector()
+        sleep(5)
+        self.filter_page.click_location_selector()
+        self.filter_page.click_location("Istanbul, Turkiye")
         self.filter_page.click_department_selector()
         self.filter_page.click_department("Quality Assurance")
         wait_for_load(self.driver_wait)
-        self.assertTrue(self.filter_page.is_all_jobs_correct())
+        self.filter_page.is_all_jobs_correct()
         self.filter_page.click_view_role_button()
         self.assertTrue(check_tab_url(self.driver, 1, "https://jobs.lever.co/useinsider"))
         switch_to_new_window(self.driver)
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=0)

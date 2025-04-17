@@ -1,0 +1,402 @@
+2025-04-16 16:43:45,695 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 16:43:48,613 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 16:43:48,613 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 16:44:08,629 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:44:08,772 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:44:08,772 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 16:44:17,772 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:44:17,862 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:44:27,872 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 16:44:27,948 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 16:59:02,968 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 16:58:45,795 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 16:58:48,663 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 16:58:48,663 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 16:58:54,639 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:58:54,792 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:58:54,792 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 16:59:02,782 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:59:02,882 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 16:59:02,882 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 16:59:02,958 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 16:59:02,958 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:15:02,054 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:15:02,907 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:15:02,907 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:15:09,164 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:15:09,223 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:15:09,233 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:15:09,242 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:15:09,242 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:15:18,531 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:15:18,646 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:15:18,646 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:19:39,482 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:19:40,283 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:19:40,284 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:19:40,285 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:24:19,389 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:24:20,133 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:24:20,133 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:24:20,134 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 17:24:20,185 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 17:24:20,186 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:24:20,186 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 17:24:20,232 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-16 17:24:20,232 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:24:20,281 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:24:20,282 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:24:58,462 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:24:59,101 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:24:59,102 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:24:59,102 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:29:12,499 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:29:13,264 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:29:13,265 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:29:13,266 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:29:31,893 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:29:32,586 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:29:32,586 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:29:39,619 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:29:39,631 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:29:39,640 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:29:39,652 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:29:39,652 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:29:53,942 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:29:54,027 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:29:54,027 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:31:46,189 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:31:46,985 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:31:46,986 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:31:53,330 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:31:53,341 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:31:53,361 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:31:53,370 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:31:53,370 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:31:54,757 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:31:54,780 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:31:59,797 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:32:09,854 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:32:09,914 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:32:09,915 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:37:31,730 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:37:32,503 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:37:32,504 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:37:38,827 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:37:38,843 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:37:38,852 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:37:38,861 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:37:38,861 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:37:40,456 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:37:40,456 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:37:40,529 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:37:40,608 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:37:40,608 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:38:01,368 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:38:02,076 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:38:02,079 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:38:17,314 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:38:17,329 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:38:17,338 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:38:17,347 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:38:17,347 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:38:17,980 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:38:17,980 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:38:23,526 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:38:23,528 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:38:29,539 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:38:29,539 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:38:39,567 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:38:39,567 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:38:44,572 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:38:44,572 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:38:54,626 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:38:54,627 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:38:54,629 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:38:54,731 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:38:54,732 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:39:30,039 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:39:30,789 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:39:30,790 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:39:37,251 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:39:37,265 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:39:37,279 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:39:37,288 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:39:37,288 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:39:38,463 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:39:38,463 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:39:38,576 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:39:38,576 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:39:41,146 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:39:41,146 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:39:51,166 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:39:51,166 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:39:56,167 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:39:56,167 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:40:06,214 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:40:06,215 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:40:06,215 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:40:06,215 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:40:06,265 - FilterJobsPage - INFO - Waiting for element ('class name', 'select2-results__option') to be clickable
+2025-04-16 17:40:06,295 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:40:06,439 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:40:06,440 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:44:53,039 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:44:53,733 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:44:53,734 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:45:00,004 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:45:00,048 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:45:00,056 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:45:00,062 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:45:00,062 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:45:01,304 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:45:01,305 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:45:01,422 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:45:01,422 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:45:04,047 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:45:04,048 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:45:14,116 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:45:14,116 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:45:19,121 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:45:19,122 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:45:29,190 - JobsEntrancePage - ERROR - Element ('link text', 'See all QA jobs') not clickable after 10 seconds
+2025-04-16 17:45:29,190 - JobsEntrancePage - ERROR - Failed to click element ('link text', 'See all QA jobs'): 'NoneType' object has no attribute 'click'
+2025-04-16 17:45:29,190 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:45:29,190 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:45:29,246 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:45:29,332 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:45:29,332 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:47:45,970 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:47:46,562 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:47:46,563 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:47:53,730 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:47:53,745 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:47:53,756 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:47:53,764 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:47:53,765 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:47:55,357 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:47:55,357 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:47:55,435 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:47:55,436 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:48:02,996 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:48:02,997 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:48:03,153 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:48:03,245 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:48:03,245 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:48:39,120 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:48:39,691 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:48:39,691 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:48:46,386 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:48:46,406 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:48:46,416 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:48:46,426 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:48:46,427 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:48:48,029 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:48:48,030 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:48:48,112 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:48:48,112 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:48:55,893 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:48:55,893 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:48:55,959 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:48:55,964 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:49:01,027 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:49:01,028 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:49:01,147 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:49:01,236 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:49:01,236 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:50:08,271 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:50:08,861 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:50:08,862 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:50:14,932 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:50:14,942 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:50:14,951 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:50:14,958 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:50:14,958 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:50:16,618 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:50:16,619 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:50:16,726 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:50:16,726 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:50:24,509 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:50:24,509 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:50:24,598 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:50:24,598 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:50:29,631 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:50:29,632 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:50:29,742 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:50:29,827 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:50:29,827 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 17:51:21,520 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 17:51:22,050 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:51:22,051 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 17:51:32,069 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 17:51:32,086 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 17:51:32,096 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 17:51:32,105 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 17:51:32,105 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 17:51:33,302 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 17:51:33,302 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 17:51:33,386 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 17:51:33,386 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 17:51:40,949 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:51:40,950 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:51:41,010 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:51:41,010 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:51:46,077 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 17:51:46,078 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 17:51:46,167 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-department-container')
+2025-04-16 17:51:46,167 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-department-container') to be clickable
+2025-04-16 17:51:46,270 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:51:46,347 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 17:51:46,347 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:01:10,443 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:01:11,579 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:01:11,580 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:01:18,707 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:01:18,724 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:01:18,735 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:01:18,745 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:01:18,745 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:01:19,386 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:01:19,386 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:01:20,742 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:01:20,742 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:01:28,397 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:01:28,397 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:01:28,456 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:01:28,456 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:01:33,490 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:01:33,491 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:01:33,551 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:01:33,636 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:01:33,636 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:08:55,986 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:08:56,680 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:08:56,681 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:09:03,811 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:09:03,825 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:09:03,836 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:09:03,844 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:09:03,844 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:09:04,481 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:09:04,481 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:09:05,522 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:09:05,522 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:09:13,215 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:09:13,216 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:09:13,267 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:09:13,267 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:09:18,300 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:09:18,301 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:09:18,391 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:09:18,464 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:09:18,465 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:09:54,993 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:09:55,577 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:09:55,577 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:10:01,425 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:10:01,447 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:10:01,455 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:10:01,463 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:10:01,463 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:10:02,116 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:10:02,116 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:10:02,681 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:10:02,682 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:10:10,712 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:10:10,712 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:10:10,779 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:10:10,779 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:10:15,814 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:10:15,815 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:10:15,906 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:10:15,981 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:10:15,982 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:12:05,821 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:12:06,421 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:12:06,422 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:12:13,271 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:12:13,287 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:12:13,299 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:12:13,307 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:12:13,308 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:12:13,951 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:12:13,952 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:12:14,961 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:12:14,962 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:12:23,102 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:12:23,102 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:12:23,163 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:12:23,163 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:12:28,195 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:12:28,196 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:12:28,260 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:12:28,339 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:12:28,339 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:22:17,804 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:22:18,480 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:22:19,273 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:22:19,274 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:22:22,754 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:22:22,754 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:22:30,577 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:22:30,578 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:22:35,631 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:22:35,632 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:22:40,689 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:22:40,689 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:22:40,782 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-department-container')
+2025-04-16 18:22:40,782 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-department-container') to be clickable
+2025-04-16 18:22:40,876 - FilterJobsPage - INFO - Scrolling to element
+2025-04-16 18:22:40,876 - FilterJobsPage - INFO - Executing script: arguments[0].scrollIntoView(true);
+2025-04-16 18:22:40,878 - FilterJobsPage - INFO - Waiting for element ('xpath', "//*[@id='jobs-list']/div") to be visible
+2025-04-16 18:22:40,889 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:22:40,965 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-16 18:22:40,965 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:26:27,127 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:26:27,724 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:26:27,725 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:26:34,081 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:26:34,090 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:26:34,099 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:26:34,107 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:26:34,107 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:26:35,351 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:26:35,351 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:26:35,956 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:26:35,957 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:26:44,027 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:26:44,027 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:26:49,099 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:26:49,100 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:26:54,159 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:26:54,159 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:26:54,256 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-department-container')
+2025-04-16 18:26:54,256 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-department-container') to be clickable
+2025-04-16 18:26:54,354 - FilterJobsPage - INFO - Scrolling to element
+2025-04-16 18:26:54,354 - FilterJobsPage - INFO - Executing script: arguments[0].scrollIntoView(true);
+2025-04-16 18:26:54,356 - FilterJobsPage - INFO - Waiting for element ('xpath', "//*[@id='jobs-list']/div") to be visible
+2025-04-16 18:27:09,959 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-16 18:30:21,785 - tests.base_test - INFO - Setting up WebDriver
+2025-04-16 18:30:22,385 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:30:22,386 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-16 18:30:28,758 - CareersPage - INFO - Checking if locations section is visible
+2025-04-16 18:30:28,770 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-16 18:30:28,780 - CareersPage - INFO - Checking if teams section is visible
+2025-04-16 18:30:28,803 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-16 18:30:28,803 - TestInsider - INFO - Initializing test class and page objects
+2025-04-16 18:30:29,474 - JobsEntrancePage - INFO - Clicking element ('id', 'wt-cli-accept-all-btn')
+2025-04-16 18:30:29,475 - JobsEntrancePage - INFO - Waiting for element ('id', 'wt-cli-accept-all-btn') to be clickable
+2025-04-16 18:30:30,524 - JobsEntrancePage - INFO - Clicking element ('link text', 'See all QA jobs')
+2025-04-16 18:30:30,525 - JobsEntrancePage - INFO - Waiting for element ('link text', 'See all QA jobs') to be clickable
+2025-04-16 18:30:38,255 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:30:38,256 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:30:43,310 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:30:43,310 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:30:48,350 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-location-container')
+2025-04-16 18:30:48,351 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-location-container') to be clickable
+2025-04-16 18:30:48,447 - FilterJobsPage - INFO - Clicking element ('id', 'select2-filter-by-department-container')
+2025-04-16 18:30:48,447 - FilterJobsPage - INFO - Waiting for element ('id', 'select2-filter-by-department-container') to be clickable
+2025-04-16 18:30:48,548 - FilterJobsPage - INFO - Scrolling to element
+2025-04-16 18:30:48,548 - FilterJobsPage - INFO - Executing script: arguments[0].scrollIntoView(true);
+2025-04-16 18:30:48,550 - FilterJobsPage - INFO - Waiting for element ('xpath', "//*[@id='jobs-list']/div") to be visible
+2025-04-16 18:30:52,194 - tests.base_test - INFO - Tearing down WebDriver

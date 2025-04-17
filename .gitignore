@@ -1,5 +1,5 @@
 test-reports/
-logs/
+#logs/
 screenshots/
 __pycache__/
 *.pyc

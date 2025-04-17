@@ -1,0 +1,255 @@
+2025-04-15 12:13:22,976 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 12:13:26,915 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 12:13:26,915 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 12:13:33,864 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 12:13:33,894 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 12:13:33,902 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 12:13:33,909 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 12:13:33,910 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 12:13:37,795 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 15:44:22,557 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:44:24,209 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:44:24,209 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 15:44:31,276 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 15:44:31,292 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 15:44:31,304 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 15:44:31,313 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 15:44:31,314 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:44:35,537 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 15:45:55,620 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:55:42,329 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:55:42,329 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:55:42,329 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 15:55:42,330 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:55:42,330 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 15:56:41,235 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:56:41,235 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:56:41,235 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 15:56:41,236 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:56:41,237 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:56:41,237 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:56:41,237 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 15:56:43,271 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:56:43,271 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:56:43,271 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 15:56:43,272 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:56:43,272 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:56:43,272 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:56:43,272 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 15:57:17,589 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 15:57:17,589 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:57:17,590 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 15:57:17,590 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:57:18,313 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 15:57:18,313 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:57:18,365 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:57:18,365 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:57:18,401 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 15:57:18,401 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 15:57:18,444 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 15:57:18,444 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:01:31,564 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:01:31,564 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:01:31,564 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:01:31,565 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:01:32,258 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:01:32,258 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:01:32,308 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:01:32,308 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:01:32,351 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:01:32,351 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:01:32,402 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:01:32,402 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:07:24,627 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:07:24,627 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:07:24,627 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:07:24,628 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:07:25,348 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:07:25,349 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:07:25,388 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:07:25,388 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:07:25,434 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:07:25,434 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:07:25,476 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:07:25,476 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:14:10,464 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:14:10,464 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:14:10,464 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:14:10,467 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:14:11,201 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:14:11,202 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:14:11,249 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:14:11,249 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:14:11,286 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:14:11,286 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:14:11,329 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:14:11,329 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:16:13,667 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:16:14,384 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:16:14,385 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:16:18,770 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:16:18,772 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:16:22,486 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:16:22,486 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:19:27,544 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:19:28,141 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:19:28,141 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:19:32,325 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:19:32,326 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:19:38,615 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 16:19:38,616 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:20:21,131 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:20:21,842 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:20:21,842 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:20:28,034 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 16:20:28,044 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 16:20:28,055 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 16:20:28,066 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 16:20:28,067 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:20:32,306 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:20:32,534 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:20:32,535 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 16:21:44,904 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 16:21:45,467 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:21:45,467 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 16:21:51,455 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 16:21:51,466 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 16:21:51,476 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 16:21:51,486 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 16:21:51,486 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 16:21:55,615 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:21:55,703 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 16:21:55,704 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:20:34,408 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:20:35,685 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:20:35,686 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:20:40,095 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:20:40,186 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:20:40,186 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:20:41,884 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:20:41,971 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:20:41,971 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:20:42,038 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:20:42,038 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:21:51,141 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:21:51,732 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:21:51,732 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:21:58,200 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 17:21:58,212 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 17:21:58,222 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 17:21:58,230 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 17:21:58,231 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:22:02,280 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:22:02,359 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:22:02,359 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:24:15,743 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:24:16,360 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:24:16,360 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:24:20,563 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:24:20,657 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:24:20,657 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:24:30,284 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:24:30,635 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:24:30,635 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:24:30,702 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:24:30,702 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:25:43,554 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:25:44,342 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:25:44,342 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:25:49,202 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:25:49,299 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:25:49,299 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:25:58,784 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:25:58,912 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:25:58,912 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:25:58,996 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:25:58,996 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:27:32,927 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:27:33,786 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:27:33,786 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:27:40,699 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 17:27:40,715 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 17:27:40,732 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 17:27:40,743 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 17:27:40,744 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:27:49,866 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:27:49,961 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:27:49,961 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:34:44,940 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:34:45,629 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:34:45,631 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:34:45,685 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:34:45,686 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:34:50,531 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:34:51,081 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:34:51,081 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:34:51,129 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:34:51,129 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:35:06,553 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:35:07,155 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:35:07,156 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:35:07,201 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:35:07,202 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:38:08,822 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:38:09,572 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:38:09,573 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:38:09,616 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:38:09,616 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:38:53,140 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:38:53,848 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:38:53,849 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:38:53,900 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:38:53,900 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:42:38,302 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:42:39,070 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:42:39,790 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:42:43,184 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:42:43,184 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:43:01,466 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:43:02,052 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:43:03,064 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_network_tests
+2025-04-15 17:43:03,121 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_network_tests
+2025-04-15 17:43:03,121 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:47:55,270 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:49:44,642 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:49:55,641 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:49:56,141 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:49:56,142 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:50:03,733 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 17:50:03,747 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 17:50:03,759 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 17:50:03,768 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 17:50:03,768 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:50:13,278 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:50:13,392 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:50:13,393 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:57:57,337 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:57:58,504 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:57:58,504 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:58:02,778 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:58:02,876 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:58:02,876 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:58:12,627 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:58:12,716 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:58:12,716 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:58:12,803 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:58:12,803 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 17:59:32,740 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 17:59:33,353 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:59:33,353 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 17:59:37,706 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:59:37,800 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:59:37,800 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 17:59:47,601 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:59:47,697 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_1_homepage_and_click_careers
+2025-04-15 17:59:47,697 - TestInsider - ERROR - Test failed: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:59:47,777 - TestInsider - INFO - Screenshot taken for failed test: test_insider.TestInsider.test_2_job_positions
+2025-04-15 17:59:47,777 - tests.base_test - INFO - Tearing down WebDriver
+2025-04-15 18:00:41,974 - tests.base_test - INFO - Setting up WebDriver
+2025-04-15 18:00:42,589 - TestInsider - INFO - Initializing test class and page objects
+2025-04-15 18:00:42,590 - TestInsider - INFO - Starting homepage and careers navigation test
+2025-04-15 18:00:49,285 - CareersPage - INFO - Checking if locations section is visible
+2025-04-15 18:00:49,305 - CareersPage - INFO - Checking if 'Life at Insider' section is visible
+2025-04-15 18:00:49,318 - CareersPage - INFO - Checking if teams section is visible
+2025-04-15 18:00:49,327 - TestInsider - INFO - Homepage and careers navigation test completed successfully
+2025-04-15 18:00:49,329 - tests.base_test - INFO - Tearing down WebDriver

@@ -1,8 +1,9 @@
 from selenium.webdriver.common.by import By
-
-class NavBar:
+from pages.base_page import BasePage
+class NavBar(BasePage):
+    
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
         self.navigation_bar = None
         self.drop_down_elements = []
         self.sub_dropdown_elements = []
